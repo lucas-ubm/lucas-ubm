@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presented abstract at PharML workshop 
+title: Presented abstract at PharML workshop
 date: 2020-09-14
 inline: false
 related_posts: false
