@@ -163,6 +163,7 @@ Also In case you face the error: "Input required and not supplied: token" in the
 
 - **contents**: access: read and write
 - **metadata**: access: read-only
+- **actions**: access: read-only
 
 Due to the necessary permissions (PAT and others mentioned above), it is recommended to use it as a secret rather than an environment variable.
 

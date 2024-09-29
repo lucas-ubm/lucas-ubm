@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Law Faculty, UM</p>
     <p>Bouillonstraat 1-3</p>
     <p>6211 LH Maastricht</p>
 
