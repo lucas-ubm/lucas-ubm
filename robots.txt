@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lucas-ubm.github.io/lucas-ubm//sitemap.xml
+Sitemap: https://lucas-ubm.github.io/sitemap.xml
