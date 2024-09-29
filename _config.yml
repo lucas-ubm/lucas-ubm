@@ -16,8 +16,7 @@ footer_text: >
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: lucas giovanni uberti-bona marin, research, science, artificial intelligence, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🏔️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-
+icon: 🏔️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://lucas-ubm.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -43,7 +42,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false 
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -115,7 +114,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  If you want to collaborate, feel free to reach out to me, preferably via email. 
+  If you want to collaborate, feel free to reach out to me, preferably via email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -162,7 +161,6 @@ giscus:
   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
-
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
