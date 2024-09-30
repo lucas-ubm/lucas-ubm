@@ -19,7 +19,9 @@ on:
       - "!.github/workflows/lighthouse-badger.yml"
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
-      - "!**/._*/**"
+      - "!._posts/**"
+      - "!._projects/**"
+      - "!._pages/**"
   pull_request:
     branches:
       - master
@@ -38,7 +40,9 @@ on:
       - "!.github/workflows/lighthouse-badger.yml"
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
-      - "!**/._*/**"
+      - "!._posts/**"
+      - "!._projects/**"
+      - "!._pages/**"
 
 jobs:
   link-checker:
